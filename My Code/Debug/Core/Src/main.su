@@ -1,0 +1,10 @@
+../Core/Src/main.c:113:6:HC595write	24	static
+../Core/Src/main.c:159:6:HC595writePin	24	static
+../Core/Src/main.c:174:6:LED_Manager	48	static
+../Core/Src/main.c:280:6:LED_DANCE	8	static
+../Core/Src/main.c:325:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/main.c:405:5:main	16	static
+../Core/Src/main.c:528:6:SystemClock_Config	80	static
+../Core/Src/main.c:569:13:MX_ADC_Init	24	static
+../Core/Src/main.c:623:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:667:6:Error_Handler	8	static,ignoring_inline_asm
